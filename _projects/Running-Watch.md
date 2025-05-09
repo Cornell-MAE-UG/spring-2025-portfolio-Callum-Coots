@@ -10,7 +10,7 @@ This project was for a CAD design assignment in one of my classes. The assignmen
 
 A reference image of my watch is shown here:
 
-<img src="/assets/images/WATCH-asset-2.png" alt="LMH CAD">
+<img src="/assets/images/WATCH-asset-2.png" alt="LMH CAD" width="300" height="200">
 
 I started with a technical sketch of the watch:
 
