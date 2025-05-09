@@ -2,7 +2,7 @@
 layout: project
 title: LeMiniHoop
 description: Mechanical Design Project
-technologies: [Autodesk Fusion]
+technologies: [Autodesk Fusion], [3D Printing], [Laser Cutting], [Electronic Integration]
 image: /assets/LeHoopReturn Mk2 v1.gif
 ---
 
