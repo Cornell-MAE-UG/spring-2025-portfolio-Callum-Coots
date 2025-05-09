@@ -10,12 +10,12 @@ This project was for a CAD design assignment in one of my classes. The assignmen
 
 A reference image of my watch is shown here along with a technical sketch (my first step):
 
-<img src="/assets/images/WATCH-asset-2.png" alt="LMH CAD" width="300" height="200">  <img src="/assets/images/WATCH-asset-1.png" alt="LMH CAD" width="675" height="200">
+<img src="/assets/images/WATCH-asset-2.png" alt="WATCH reference" width="300" height="200">  <img src="/assets/images/WATCH-asset-1.png" alt="WATCH drawing" width="675" height="200">
 
 The CAD model is shown here:
 
-<img src="/assets/images/WATCH-asset-3.png" alt="LMH CAD" width="800" height="533">
+<img src="/assets/images/WATCH-asset-3.png" alt="WATCH CAD" width="800" height="533">
 
 Finally, here are some renderings of the watch:
 
-<img src="/assets/images/WATCH-asset-4.png" alt="LMH CAD">  <img src="/assets/images/WATCH-asset-5.png" alt="LMH CAD">
+<img src="/assets/images/WATCH-asset-4.png" alt="WATCH rendering front">  <img src="/assets/images/WATCH-asset-5.png" alt="WATCH rendering back">
