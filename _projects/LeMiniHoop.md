@@ -1,4 +1,3 @@
----
 layout: project
 title: LeMiniHoop
 description: Mechanical Design Project
