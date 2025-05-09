@@ -18,4 +18,4 @@ Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ult
 
 I was inspired by this old radio when I made this rendering:
 
-![CAD models]({{ "/assets/images/LMH-asset-1.png" | relative_url }}){: .inline-image-l}
+![CAD models]({{ "/assets/images/LMH-asset-1.png" | https://github.com/Cornell-MAE-UG/spring-2025-portfolio-Callum-Coots/blob/main/assets/images/LMH-asset-1.png }}){: .inline-image-l}
