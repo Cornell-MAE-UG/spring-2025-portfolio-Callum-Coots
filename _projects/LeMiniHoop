@@ -3,7 +3,7 @@ layout: project
 title: LeMiniHoop
 description: Mechanical Design Project
 technologies: [Autodesk Fusion], [3D printing], [laser cutting]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/LeMiniHoop Mk2 v1.gif
 ---
 
 For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
@@ -18,4 +18,4 @@ Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ult
 
 I was inspired by this old radio when I made this rendering:
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+![CAD models]({{ "/assets/images/LMH-asset-1.png" | relative_url }}){: .inline-image-l}
