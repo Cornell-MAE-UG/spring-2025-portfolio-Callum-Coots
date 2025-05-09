@@ -14,8 +14,8 @@ CAD models of each custom part and prototype are shown below:
 
 Images of prototypes 1 and 2 are shown here:
 
-<img src="/assets/images/LMH-asset-2.png" alt="LMH CAD">
+<img src="/assets/images/LMH-asset-2.png" alt="LMH images">
 
 My sketches are shown here:
 
-<img src="/assets/images/LMH-asset-3.png" alt="LMH CAD">
+<img src="/assets/images/LMH-asset-3.png" alt="LMH sketches">
