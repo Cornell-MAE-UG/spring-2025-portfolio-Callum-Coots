@@ -18,11 +18,11 @@ A rendering is shown here:
 
 Level 1 and 2 (respectively) floor plans are shown here:
 
-<img src="/assets/images/PH-asset-3.png" alt="PH floor 1" width="300" height="200">  <img src="/assets/images/PH-asset-4.png" alt="PH floor 2" width="300" height="200">
+<img src="/assets/images/PH-asset-3.png" alt="PH floor 1" width="450" height="300">  <img src="/assets/images/PH-asset-4.png" alt="PH floor 2" width="450" height="300">
 
 East and South (respectively) elevation plans are shown here:
 
-<img src="/assets/images/PH-asset-5.png" alt="PH east" width="300" height="200">  <img src="/assets/images/PH-asset-6.png" alt="PH south" width="300" height="200">
+<img src="/assets/images/PH-asset-5.png" alt="PH east" width="450" height="300">  <img src="/assets/images/PH-asset-6.png" alt="PH south" width="600" height="300">
 
 Finally, my initial sketch and passive house design considerations are shown here:
 
