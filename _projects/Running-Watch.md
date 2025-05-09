@@ -14,7 +14,7 @@ A reference image of my watch is shown here along with a technical sketch (my fi
 
 The CAD model is shown here:
 
-<img src="/assets/images/WATCH-asset-3.png" alt="LMH CAD" width="500" height="333">
+<img src="/assets/images/WATCH-asset-3.png" alt="LMH CAD" width="800" height="533">
 
 Finally, here are some renderings of the watch:
 
