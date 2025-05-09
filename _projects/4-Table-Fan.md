@@ -10,7 +10,7 @@ This project was for a technical sketching assignment in one of my courses. The 
 
 The fan (before disassembly) and the disassembled, exploded fan are shown here:
 
-<img src="/assets/images/FAN-asset-1.png" alt="FAN reference" width="300" height="450"> <img src="/assets/images/FAN-asset-3.png" alt="FAN exploded" width="600" height="500">
+<img src="/assets/images/FAN-asset-1.png" alt="FAN reference" width="300" height="450"> <img src="/assets/images/FAN-asset-3.png" alt="FAN exploded" width="600" height="450">
 
 The technical drawing is shown here:
 
