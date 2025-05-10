@@ -11,11 +11,13 @@ This project was for a CAD design assignment in one of my classes. The assignmen
 
 A reference image of my watch is shown here along with a technical sketch (my first step):
 
-<img src="/assets/images/WATCH-asset-2.png" alt="WATCH reference" width="300" height="200">  <img src="/assets/images/WATCH-asset-1.png" alt="WATCH drawing" width="675" height="200">
+<!-- <img src="/assets/images/WATCH-asset-2.png" alt="WATCH reference" width="300" height="200">  <img src="/assets/images/WATCH-asset-1.png" alt="WATCH drawing" width="675" height="200"> -->
+![WATCH reference]({{ "/assets/images/WATCH-asset-2.png" | relative_url }}){: .inline-image-l}{:height="200px" width="300px"} ![WATCH drawing]({{ "/assets/images/WATCH-asset-1.png" | relative_url }}){: .inline-image-l}{:height="200px" width="675px"}
 
 The CAD model is shown here:
 
-<img src="/assets/images/WATCH-asset-3.png" alt="WATCH CAD" width="800" height="533">
+<!-- <img src="/assets/images/WATCH-asset-3.png" alt="WATCH CAD" width="800" height="533"> -->
+![LMH prototypes]({{ "/assets/images/LMH-asset-2.png" | relative_url }}){: .inline-image-l}{:height="533px" width="800px"}
 
 Finally, here are some renderings of the watch:
 
