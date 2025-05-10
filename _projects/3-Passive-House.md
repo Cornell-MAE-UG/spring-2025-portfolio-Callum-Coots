@@ -27,4 +27,4 @@ East and South (respectively) elevation plans are shown here:
 
 Finally, my initial sketch and passive house design considerations are shown here:
 
-<img src="/assets/images/PH-asset-7.png">
+<img src="/assets/images/PH-asset-7.png" alt="PH sketch">
