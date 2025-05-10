@@ -21,4 +21,5 @@ The CAD model is shown here:
 
 Finally, here are some renderings of the watch:
 
-<img src="/assets/images/WATCH-asset-4.png" alt="WATCH rendering front">  <img src="/assets/images/WATCH-asset-5.png" alt="WATCH rendering back">
+<!-- <img src="/assets/images/WATCH-asset-4.png" alt="WATCH rendering front">  <img src="/assets/images/WATCH-asset-5.png" alt="WATCH rendering back"> -->
+![WATCHrendering front]({{ "/assets/images/WATCH-asset-4.png" | relative_url }}){: .inline-image-l}{:height="533px" width="800px"} ![WATCH rendering back]({{ "/assets/images/WATCH-asset-5.png" | relative_url }}){: .inline-image-l}{:height="533px" width="800px"}
