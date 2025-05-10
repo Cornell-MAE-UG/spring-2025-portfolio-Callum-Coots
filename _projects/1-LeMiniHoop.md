@@ -23,5 +23,3 @@ My sketches are shown here:
 
 <img src="assetz/LMH-asset-3.png" alt="LMH sketches">
 
-TESZTES
-
