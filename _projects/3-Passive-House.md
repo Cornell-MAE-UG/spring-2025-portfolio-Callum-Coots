@@ -15,16 +15,16 @@ The CAD model of my house design is shown here:
 
 A rendering is shown here:
 
-<img src="/assets/images/PH-asset-1.png" alt="PH render" width="800" height="533">
+<img src="{{'/assets/images/PH-asset-1.png' | relative_url }}" alt="PH render" width="800" height="533">
 
 Level 1 and 2 (respectively) floor plans are shown here:
 
-<img src="/assets/images/PH-asset-3.png" alt="PH floor 1" width="450" height="300">  <img src="/assets/images/PH-asset-4.png" alt="PH floor 2" width="450" height="300">
+<img src="{{'/assets/images/PH-asset-3.png' | relative_url }}"  alt="PH floor 1" width="450" height="300">  <img src="{{'/assets/images/PH-asset-4.png' | relative_url }}"  alt="PH floor 2" width="450" height="300">
 
 East and South (respectively) elevation plans are shown here:
 
-<img src="/assets/images/PH-asset-5.png" alt="PH east" width="450" height="300">  <img src="/assets/images/PH-asset-6.png" alt="PH south" width="600" height="300">
+<img src="{{'/assets/images/PH-asset-5.png' | relative_url }}"  alt="PH east" width="450" height="300">  <img src="{{'/assets/images/PH-asset-6.png' | relative_url }}"  alt="PH south" width="600" height="300">
 
 Finally, my initial sketch and passive house design considerations are shown here:
 
-<img src="/assets/images/PH-asset-7.png" alt="PH sketch">
+<img src="{{'/assets/images/PH-asset-7.png' | relative_url }}"  alt="PH sketch">
