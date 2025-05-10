@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: <Callum Coots>
 ---
 
 ## About Me
