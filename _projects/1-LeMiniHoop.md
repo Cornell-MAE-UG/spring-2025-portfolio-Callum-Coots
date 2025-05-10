@@ -18,10 +18,11 @@ CAD models of each custom part and prototype are shown below:
 
 Images of prototypes 1 and 2 are shown here:
 
-<img src="assetz/LMH-asset-2.png" alt="LMH images">
+<!-- <img src="assetz/LMH-asset-2.png" alt="LMH images"> -->
 ![LMH prototypes]({{ "/assets/images/LMH-asset-2.png" | relative_url }}){: .inline-image-l}
 
 My sketches are shown here:
 
-<img src="assetz/LMH-asset-3.png" alt="LMH sketches">
+<!-- <img src="assetz/LMH-asset-3.png" alt="LMH sketches"> -->
+![LMH sketches]({{ "/assets/images/LMH-asset-3.png" | relative_url }}){: .inline-image-l}
 
