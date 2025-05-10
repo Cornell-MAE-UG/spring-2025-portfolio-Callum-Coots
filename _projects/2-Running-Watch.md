@@ -3,7 +3,7 @@ layout: project
 title: Forerunner745
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
-image: /assets/images/WATCH-asset-4.png
+<!-- image: /assets/images/WATCH-asset-4.png -->
 permalink: /2-Running-Watch/
 ---
 
