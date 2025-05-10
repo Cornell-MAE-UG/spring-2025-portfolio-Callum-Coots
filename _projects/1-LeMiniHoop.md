@@ -11,14 +11,14 @@ This project was developed for my mechanical synthesis class, and was a year-lon
 
 CAD models of each custom part and prototype are shown below:
 
-<img src="{{ '/assets/images/LMH-asset-1.png' | relative_url }}" alt="LMH CAD" width="800" height="533">
+<img src="{{ '/assets/images/LMH-asset-1.png' | relative_url }}" alt="LMH CAD" width="800" height="500">
 
 Images of prototypes 1 and 2 are shown here:
 
-<img src="{{ '/assets/images/LMH-asset-2.png' | relative_url }}" alt="LMH prototypes" width="800" height="533">
+<img src="{{ '/assets/images/LMH-asset-2.png' | relative_url }}" alt="LMH prototypes" width="800" height="500">
 
 My sketches are shown here:
 
-<img src="{{ '/assets/images/LMH-asset-3.png' | relative_url }}" alt="LMH sketches" width="800" height="533">
+<img src="{{ '/assets/images/LMH-asset-3.png' | relative_url }}" alt="LMH sketches" width="800" height="500">
 
 
