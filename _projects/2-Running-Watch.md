@@ -11,7 +11,7 @@ This project was for a CAD design assignment in one of my classes. The assignmen
 
 A reference image of my watch is shown here along with a technical sketch (my first step):
 
-<img src="{{ '/assets/images/WATCH-asset-2.png' | relative_url }}" alt="WATCH reference" width="300" height="200"> <img src="{{ '/assets/images/WATCH-asset-1.png' | relative_url }}" alt="WATCH drawing" width="675" height="200">
+<img src="{{ '/assets/images/WATCH-asset-2.png' | relative_url }}" alt="WATCH reference" width="300" height="200">  <img src="{{ '/assets/images/WATCH-asset-1.png' | relative_url }}" alt="WATCH drawing" width="675" height="200">
 
 The CAD model is shown here:
 
@@ -19,4 +19,4 @@ The CAD model is shown here:
 
 Finally, here are some renderings of the watch:
 
-<img src="{{ '/assets/images/wATCH-asset-4.png' | relative_url }}" alt="WATCH rendering front" width="800" height="500"> <img src="{{ '/assets/images/WATCH-asset-5.png' | relative_url }}" alt="WATCH rendering back" width="800" height="500">
+<img src="{{ '/assets/images/WATCH-asset-4.png' | relative_url }}" alt="WATCH rendering front" width="800" height="500">  <img src="{{ '/assets/images/WATCH-asset-5.png' | relative_url }}" alt="WATCH rendering back" width="800" height="500">
