@@ -17,7 +17,7 @@ A reference image of my watch is shown here along with a technical sketch (my fi
 The CAD model is shown here:
 
 <!-- <img src="/assets/images/WATCH-asset-3.png" alt="WATCH CAD" width="800" height="533"> -->
-![LMH prototypes]({{ "/assets/images/LMH-asset-2.png" | relative_url }}){: .inline-image-l}{:height="533px" width="800px"}
+![LMH prototypes]({{ "/assets/images/WATCH-asset-3.png" | relative_url }}){: .inline-image-l}{:height="533px" width="800px"}
 
 Finally, here are some renderings of the watch:
 
