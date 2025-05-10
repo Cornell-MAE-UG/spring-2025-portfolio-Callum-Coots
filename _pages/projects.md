@@ -20,6 +20,9 @@ permalink: /projects/
 -->
 
 <a href="{{ "/1-LeMiniHoop/" | relative_url }}">LeMiniHoop</a>
+
 <a href="{{ "/2-Running-Watch/" | relative_url }}">Running Watch</a>
+
 <a href="{{ "/3-Passive-House/" | relative_url }}">Passive House</a>
+
 <a href="{{ "/4-Table-Fan/" | relative_url }}">Table Fan</a>
