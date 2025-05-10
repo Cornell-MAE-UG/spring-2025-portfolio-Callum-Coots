@@ -11,8 +11,8 @@ This project was for a technical sketching assignment in one of my courses. The 
 
 The fan (before disassembly) and the disassembled, exploded fan are shown here:
 
-<img src="assets/images/FAN-asset-1.png" alt="FAN reference" width="300" height="450"> <img src="assets/images/FAN-asset-3.png" alt="FAN exploded" width="600" height="450">
+<img src="{{ '/assets/images/FAN-asset-1.png' | relative_url }}" alt="FAN reference" width="300" height="450"> <img src="{{ '/assets/images/FAN-asset-3.png' | relative_url }}" alt="FAN exploded" width="600" height="450">
 
 The technical drawing is shown here:
 
-<img src="assets/images/FAN-asset-2.png" alt="FAN drawing">
+<img src="{{ '/assets/images/FAN-asset-2.png' | relative_url }}" alt="FAN drawing" width="800" height="533">
