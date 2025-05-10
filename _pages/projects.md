@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Callum Coots - Portfolio
+title: Callum Coots - Projects
 permalink: /projects/
 ---
 
