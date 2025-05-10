@@ -11,15 +11,11 @@ This project was for a CAD design assignment in one of my classes. The assignmen
 
 A reference image of my watch is shown here along with a technical sketch (my first step):
 
-<!-- <img src="/assets/images/WATCH-asset-2.png" alt="WATCH reference" width="300" height="200">  <img src="/assets/images/WATCH-asset-1.png" alt="WATCH drawing" width="675" height="200"> -->
-![WATCH reference]({{ "/assets/images/WATCH-asset-2.png" | relative_url }}){: .inline-image-l}{:height="200px" width="300px"} ![WATCH drawing]({{ "/assets/images/WATCH-asset-1.png" | relative_url }}){: .inline-image-l}{:height="200px" width="675px"}
-
+<img src="{{ '/assets/images/WATCH-asset-2.png' | relative_url }}" alt="WATCH reference" width="300" height="200"> <img src="{{ '/assets/images/WATCH-asset-1.png' | relative_url }}" alt="WATCH drawing" width="675" height="200">
 The CAD model is shown here:
 
-<!-- <img src="/assets/images/WATCH-asset-3.png" alt="WATCH CAD" width="800" height="533"> -->
-![LMH prototypes]({{ "/assets/images/WATCH-asset-3.png" | relative_url }}){: .inline-image-l}{:height="533px" width="800px"}
+<img src="{{ '/assets/images/WATCH-asset-3.png' | relative_url }}" alt="WATCH CAD" width="800" height="533">
 
 Finally, here are some renderings of the watch:
 
-<!-- <img src="/assets/images/WATCH-asset-4.png" alt="WATCH rendering front">  <img src="/assets/images/WATCH-asset-5.png" alt="WATCH rendering back"> -->
-![WATCHrendering front]({{ "/assets/images/WATCH-asset-4.png" | relative_url }}){: .inline-image-l}{:height="533px" width="800px"} ![WATCH rendering back]({{ "/assets/images/WATCH-asset-5.png" | relative_url }}){: .inline-image-l}{:height="533px" width="800px"}
+<img src="{{ '/assets/images/wATCH-asset-4.png' | relative_url }}" alt="WATCH rendering front" width="800" height="500"> <img src="{{ '/assets/images/WATCH-asset-5.png' | relative_url }}" alt="WATCH rendering back" width="800" height="500">
