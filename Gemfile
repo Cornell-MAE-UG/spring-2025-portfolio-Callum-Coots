@@ -10,7 +10,3 @@ gem "jekyll-include-cache"
 gem "jekyll-feed"
 
 gem "github-pages", group: :jekyll_plugins
-
-bundle install
-
-bundle exec jekyll serve
