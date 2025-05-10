@@ -4,4 +4,4 @@ title: Callum Coots - CV
 permalink: /cv/
 ---
 
-<a href="/assets/Resume-2-.pdf" class="image fit"></a>
+<img src="{{ '/assets/images/Resume-asset.png' | relative_url }}" alt="Resume" width="800" height="2000">
