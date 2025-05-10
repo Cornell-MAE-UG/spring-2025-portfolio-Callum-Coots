@@ -13,14 +13,13 @@ CAD models of each custom part and prototype are shown below:
 
 <!-- <img src="/assets/images/LMH-asset-1.png" alt="LMH CAD"> -->
 <!-- ![Headshot]({{ "/assets/images/LMH-asset-1.png" | relative_url }}) -->
-<img width=”500" height=”333" src=”https://https://cornell-mae-ug.github.io/spring-2025-portfolio-Callum-Coots/assets/images/LMH-asset-1.png">
 
 Images of prototypes 1 and 2 are shown here:
 
-<img src="assets/images/LMH-asset-2.png" alt="LMH images">
+<img src="/assets/images/LMH-asset-2.png" alt="LMH images">
 
 My sketches are shown here:
 
-<img src="assets/images/LMH-asset-3.png" alt="LMH sketches">
+<img src="/assets/images/LMH-asset-3.png" alt="LMH sketches">
 
-<img src="assets/images/headshot.jpg" width="50%" height="auto">
+<img src="/assets/images/headshot.jpg" width="50%" height="auto">
