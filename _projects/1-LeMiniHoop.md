@@ -13,7 +13,7 @@ CAD models of each custom part and prototype are shown below:
 
 <!-- <img src="assetz/LMH-asset-1.png" alt="LMH CAD"> -->
 <!-- ![Headshot]({{ "/assets/images/LMH-asset-1.png" | relative_url }}) -->
-![LMH CAD]({{ "/assets/images/LMH-asset-1.png" | relative_url }}){: .inline-image-l}{:height="533px" width="800px"}
+![LMH CAD]({{ "/assets/images/LMH-asset-1.png" | relative_url }}){:}{:height="533px" width="800px"}
 
 
 Images of prototypes 1 and 2 are shown here:
