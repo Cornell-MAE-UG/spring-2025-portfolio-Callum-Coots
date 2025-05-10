@@ -19,6 +19,7 @@ url                      : "https://callumcoots.github.io"# the base hostname & 
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: dark # light/default, dark, or aqua
+skin: dark
 
 sass:
   style: compressed
