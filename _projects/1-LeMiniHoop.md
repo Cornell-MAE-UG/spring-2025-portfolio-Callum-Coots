@@ -20,3 +20,5 @@ Images of prototypes 1 and 2 are shown here:
 My sketches are shown here:
 
 <img src="assets/images/LMH-asset-3.png" alt="LMH sketches">
+
+<img src="assets/images/headshot.jpg" width="50%" height="auto">
