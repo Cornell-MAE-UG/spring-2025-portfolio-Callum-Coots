@@ -7,7 +7,7 @@ title: <Callum Coots>
 
 
 <!-- <img src="/assets/images/Senior Photo Headshot.JPG" alt="Headshot" width="333" height="500"> -->
-![Headshot]({{ "assets/images/headshot.jpg" | relative_url }}){style="width: 333px"}
+![Headshot]({{ "assets/images/headshot.jpg" | relative_url }}){: style="width: 333px"}
 <!-- ![Headshot](/assets/images/headshot) -->
 
  
