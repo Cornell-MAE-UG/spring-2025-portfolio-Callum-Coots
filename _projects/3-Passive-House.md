@@ -11,7 +11,7 @@ This is a personal project that I took on in order to learn Revit and explore su
 
 The CAD model of my house design is shown here:
 
-<img src="/assets/images/PH-asset-2.png" alt="PH CAD" width="800" height="533">
+<img src="{{ '/assets/images/PH-asset-2.png' | relative_url }}" alt="PH CAD" width="800" height="533">
 
 A rendering is shown here:
 
