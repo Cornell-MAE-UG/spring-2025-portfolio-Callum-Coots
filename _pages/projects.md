@@ -9,7 +9,7 @@ permalink: /projects/
     {% for project in site.projects %}
       <div class="gallery-item">
         <a href="{{ projects/1-LeMiniHoop.md | relative_url }}">
-          <img src="{{ assets/images/LMH-asset-1.png | relative_url }}" alt="{{ LeMiniHoop }}" />
+          <img src="assets/images/LMH-asset-1.png">
           <p>{{ LeMiniHoop}}</p>
         </a>
       </div>
