@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : Callum Coots
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Engineering Portfolio# site tagline that appears below site title in masthead
 name                     : Callum Coots
 description              : Callum Coots - Projects and CV 
-baseurl                  : "" # Set this to "portfolio-<your-github-username>" 
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "portfolio-<callum-coots>" # Set this to "portfolio-<your-github-username>" 
+url                      : "https://callumcoots.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
