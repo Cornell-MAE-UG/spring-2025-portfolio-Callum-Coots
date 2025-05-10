@@ -11,7 +11,7 @@ This project was developed for my mechanical synthesis class, and was a year-lon
 
 CAD models of each custom part and prototype are shown below:
 
-<img src="assets/images/LMH-asset-1.png" alt="LMH CAD">
+<img src="spring-2025-portfolio-Callum-Coots/assets/images/LMH-asset-1.png" alt="LMH CAD">
 
 Images of prototypes 1 and 2 are shown here:
 
