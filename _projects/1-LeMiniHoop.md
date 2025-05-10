@@ -11,19 +11,14 @@ This project was developed for my mechanical synthesis class, and was a year-lon
 
 CAD models of each custom part and prototype are shown below:
 
-<!-- <img src="assetz/LMH-asset-1.png" alt="LMH CAD"> -->
-<!-- ![Headshot]({{ "/assets/images/LMH-asset-1.png" | relative_url }}) -->
-![LMH CAD]({{ "/assets/images/LMH-asset-1.png" | relative_url }}){: .inline-image-l}{:width="600px" height="450px"}
----
-image: /assets/images/LMH-asset-1.png
----
+<img src="{{ '/assets/images/LMH-asset-1.png' | relative_url }}" alt="LMH CAD" width="800" height="533">
+
 Images of prototypes 1 and 2 are shown here:
 
-<!-- <img src="assetz/LMH-asset-2.png" alt="LMH images"> -->
-![LMH prototypes]({{ "/assets/images/LMH-asset-2.png" | relative_url }}){: .inline-image-l}{:width="600px" height="450px"}
+<img src="{{ '/assets/images/LMH-asset-2.png' | relative_url }}" alt="LMH prototypes" width="800" height="533">
 
 My sketches are shown here:
 
-<!-- <img src="assetz/LMH-asset-3.png" alt="LMH sketches"> -->
-![LMH sketches]({{ "/assets/images/LMH-asset-3.png" | relative_url }}){: .inline-image-l}{:width="600px" height="450px"}
+<img src="{{ '/assets/images/LMH-asset-3.png' | relative_url }}" alt="LMH sketches" width="800" height="533">
+
 
